@@ -4,7 +4,7 @@ body {
 
 .main-block {
     width: 300px;
-    height: 120px;
+    height: 120vh;
     background-color: deepskyblue;
     display: flex;
     align-items: center;
